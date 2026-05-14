@@ -1,171 +1,24 @@
 [
   {
+    "title": "Grand Theft Auto III",
+    "year": 2001,
+    "company": "Rockstar Games",
+    "genre": "Action-adventure",
+    "id": "grand-theft-auto-iii"
+  },
+  {
+    "title": "Grand Theft Auto: Vice City",
+    "year": 2002,
+    "company": "Rockstar Games",
+    "genre": "Action-adventure",
+    "id": "grand-theft-auto-vice-city"
+  },
+  {
     "title": "Grand Theft Auto: San Andreas",
     "year": 2004,
     "company": "Rockstar Games",
     "genre": "Action-adventure",
     "id": "grand-theft-auto-san-andreas"
-  },
-  {
-    "title": "Metal Gear Solid 3: Snake Eater",
-    "year": 2004,
-    "company": "Konami",
-    "genre": "Stealth/Action",
-    "id": "metal-gear-solid-3-snake-eater"
-  },
-  {
-    "title": "Resident Evil 4",
-    "year": 2005,
-    "company": "Capcom",
-    "genre": "Survival Horror",
-    "id": "resident-evil-4"
-  },
-  {
-    "title": "Shadow of the Colossus",
-    "year": 2005,
-    "company": "Sony Computer Ent.",
-    "genre": "Action-adventure",
-    "id": "shadow-of-the-colossus"
-  },
-  {
-    "title": "Final Fantasy X",
-    "year": 2001,
-    "company": "Square",
-    "genre": "RPG",
-    "id": "final-fantasy-x"
-  },
-  {
-    "title": "Gran Turismo 3: A-Spec",
-    "year": 2001,
-    "company": "Sony Computer Ent.",
-    "genre": "Racing",
-    "id": "gran-turismo-3-a-spec"
-  },
-  {
-    "title": "Silent Hill 2",
-    "year": 2001,
-    "company": "Konami",
-    "genre": "Survival Horror",
-    "id": "silent-hill-2"
-  },
-  {
-    "title": "God of War II",
-    "year": 2007,
-    "company": "Sony Computer Ent.",
-    "genre": "Action",
-    "id": "god-of-war-ii"
-  },
-  {
-    "title": "Devil May Cry 3: Dante's Awakening",
-    "year": 2005,
-    "company": "Capcom",
-    "genre": "Action",
-    "id": "devil-may-cry-3-dantes-awakening"
-  },
-  {
-    "title": "Okami",
-    "year": 2006,
-    "company": "Capcom",
-    "genre": "Action-adventure",
-    "id": "okami"
-  },
-  {
-    "title": "Persona 4",
-    "year": 2008,
-    "company": "Atlus",
-    "genre": "RPG",
-    "id": "persona-4"
-  },
-  {
-    "title": "Burnout 3: Takedown",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Racing",
-    "id": "burnout-3-takedown"
-  },
-  {
-    "title": "Kingdom Hearts II",
-    "year": 2005,
-    "company": "Square Enix",
-    "genre": "Action RPG",
-    "id": "kingdom-hearts-ii"
-  },
-  {
-    "title": "Tony Hawk's Pro Skater 3",
-    "year": 2001,
-    "company": "Activision",
-    "genre": "Sports",
-    "id": "tony-hawks-pro-skater-3"
-  },
-  {
-    "title": "Prince of Persia: The Sands of Time",
-    "year": 2003,
-    "company": "Ubisoft",
-    "genre": "Action-adventure",
-    "id": "prince-of-persia-the-sands-of-time"
-  },
-  {
-    "title": "Ico",
-    "year": 2001,
-    "company": "Sony Computer Ent.",
-    "genre": "Action-adventure",
-    "id": "ico"
-  },
-  {
-    "title": "Ratchet & Clank: Going Commando",
-    "year": 2003,
-    "company": "Sony Computer Ent.",
-    "genre": "Platformer",
-    "id": "ratchet-clank-going-commando"
-  },
-  {
-    "title": "Jak II",
-    "year": 2003,
-    "company": "Sony Computer Ent.",
-    "genre": "Platformer",
-    "id": "jak-ii"
-  },
-  {
-    "title": "Sly 2: Band of Thieves",
-    "year": 2004,
-    "company": "Sony Computer Ent.",
-    "genre": "Platformer",
-    "id": "sly-2-band-of-thieves"
-  },
-  {
-    "title": "Dragon Quest VIII: Journey of the Cursed King",
-    "year": 2004,
-    "company": "Square Enix",
-    "genre": "RPG",
-    "id": "dragon-quest-viii-journey-of-the-cursed-king"
-  },
-  {
-    "title": "Star Wars: Battlefront II",
-    "year": 2005,
-    "company": "LucasArts",
-    "genre": "Shooter",
-    "id": "star-wars-battlefront-ii"
-  },
-  {
-    "title": "Tekken 5",
-    "year": 2005,
-    "company": "Namco",
-    "genre": "Fighting",
-    "id": "tekken-5"
-  },
-  {
-    "title": "SoulCalibur III",
-    "year": 2005,
-    "company": "Namco",
-    "genre": "Fighting",
-    "id": "soulcalibur-iii"
-  },
-  {
-    "title": "Spider-Man 2",
-    "year": 2004,
-    "company": "Activision",
-    "genre": "Action-adventure",
-    "id": "spider-man-2"
   },
   {
     "title": "Bully",
@@ -175,25 +28,613 @@
     "id": "bully"
   },
   {
+    "title": "The Warriors",
+    "year": 2005,
+    "company": "Rockstar Games",
+    "genre": "Beat 'em up",
+    "id": "the-warriors"
+  },
+  {
+    "title": "Red Dead Revolver",
+    "year": 2004,
+    "company": "Rockstar Games",
+    "genre": "Action-adventure",
+    "id": "red-dead-revolver"
+  },
+  {
+    "title": "God of War",
+    "year": 2005,
+    "company": "Sony Computer Ent.",
+    "genre": "Action",
+    "id": "god-of-war"
+  },
+  {
+    "title": "God of War II",
+    "year": 2007,
+    "company": "Sony Computer Ent.",
+    "genre": "Action",
+    "id": "god-of-war-ii"
+  },
+  {
+    "title": "Devil May Cry",
+    "year": 2001,
+    "company": "Capcom",
+    "genre": "Action",
+    "id": "devil-may-cry"
+  },
+  {
+    "title": "Devil May Cry 3: Dante's Awakening",
+    "year": 2005,
+    "company": "Capcom",
+    "genre": "Action",
+    "id": "devil-may-cry-3-dantes-awakening"
+  },
+  {
+    "title": "Onimusha: Warlords",
+    "year": 2001,
+    "company": "Capcom",
+    "genre": "Action-adventure",
+    "id": "onimusha-warlords"
+  },
+  {
+    "title": "Onimusha 2: Samurai's Destiny",
+    "year": 2002,
+    "company": "Capcom",
+    "genre": "Action-adventure",
+    "id": "onimusha-2-samurais-destiny"
+  },
+  {
+    "title": "Onimusha 3: Demon Siege",
+    "year": 2004,
+    "company": "Capcom",
+    "genre": "Action-adventure",
+    "id": "onimusha-3-demon-siege"
+  },
+  {
+    "title": "Onimusha: Dawn of Dreams",
+    "year": 2006,
+    "company": "Capcom",
+    "genre": "Action-adventure",
+    "id": "onimusha-dawn-of-dreams"
+  },
+  {
+    "title": "Metal Gear Solid 2: Sons of Liberty",
+    "year": 2001,
+    "company": "Konami",
+    "genre": "Stealth/Action",
+    "id": "metal-gear-solid-2-sons-of-liberty"
+  },
+  {
+    "title": "Metal Gear Solid 3: Snake Eater",
+    "year": 2004,
+    "company": "Konami",
+    "genre": "Stealth/Action",
+    "id": "metal-gear-solid-3-snake-eater"
+  },
+  {
+    "title": "Zone of the Enders",
+    "year": 2001,
+    "company": "Konami",
+    "genre": "Mecha Action",
+    "id": "zone-of-the-enders"
+  },
+  {
+    "title": "Zone of the Enders: The 2nd Runner",
+    "year": 2003,
+    "company": "Konami",
+    "genre": "Mecha Action",
+    "id": "zone-of-the-enders-the-2nd-runner"
+  },
+  {
+    "title": "Shadow of the Colossus",
+    "year": 2005,
+    "company": "Sony Computer Ent.",
+    "genre": "Action-adventure",
+    "id": "shadow-of-the-colossus"
+  },
+  {
+    "title": "Ico",
+    "year": 2001,
+    "company": "Sony Computer Ent.",
+    "genre": "Action-adventure",
+    "id": "ico"
+  },
+  {
+    "title": "Okami",
+    "year": 2006,
+    "company": "Capcom",
+    "genre": "Action-adventure",
+    "id": "okami"
+  },
+  {
+    "title": "Prince of Persia: The Sands of Time",
+    "year": 2003,
+    "company": "Ubisoft",
+    "genre": "Action-adventure",
+    "id": "prince-of-persia-the-sands-of-time"
+  },
+  {
+    "title": "Prince of Persia: Warrior Within",
+    "year": 2004,
+    "company": "Ubisoft",
+    "genre": "Action-adventure",
+    "id": "prince-of-persia-warrior-within"
+  },
+  {
+    "title": "Prince of Persia: The Two Thrones",
+    "year": 2005,
+    "company": "Ubisoft",
+    "genre": "Action-adventure",
+    "id": "prince-of-persia-the-two-thrones"
+  },
+  {
     "title": "Beyond Good & Evil",
     "year": 2003,
     "company": "Ubisoft",
     "genre": "Action-adventure",
-    "id": "beyond-good-evil"
+    "id": "beyond-good-and-evil"
   },
   {
-    "title": "Guitar Hero II",
+    "title": "Hitman 2: Silent Assassin",
+    "year": 2002,
+    "company": "Eidos Interactive",
+    "genre": "Stealth",
+    "id": "hitman-2-silent-assassin"
+  },
+  {
+    "title": "Hitman: Contracts",
+    "year": 2004,
+    "company": "Eidos Interactive",
+    "genre": "Stealth",
+    "id": "hitman-contracts"
+  },
+  {
+    "title": "Hitman: Blood Money",
     "year": 2006,
-    "company": "Activision",
-    "genre": "Music",
-    "id": "guitar-hero-ii"
+    "company": "Eidos Interactive",
+    "genre": "Stealth",
+    "id": "hitman-blood-money"
   },
   {
-    "title": "SSX 3",
+    "title": "Max Payne",
+    "year": 2001,
+    "company": "Rockstar Games",
+    "genre": "Third-person Shooter",
+    "id": "max-payne"
+  },
+  {
+    "title": "Max Payne 2: The Fall of Max Payne",
+    "year": 2003,
+    "company": "Rockstar Games",
+    "genre": "Third-person Shooter",
+    "id": "max-payne-2-the-fall-of-max-payne"
+  },
+  {
+    "title": "The Mark of Kri",
+    "year": 2002,
+    "company": "Sony Computer Ent.",
+    "genre": "Action-adventure",
+    "id": "the-mark-of-kri"
+  },
+  {
+    "title": "Rygar: The Legendary Adventure",
+    "year": 2002,
+    "company": "Tecmo",
+    "genre": "Action-adventure",
+    "id": "rygar-the-legendary-adventure"
+  },
+  {
+    "title": "Way of the Samurai",
+    "year": 2002,
+    "company": "BAM! Entertainment",
+    "genre": "Action-adventure",
+    "id": "way-of-the-samurai"
+  },
+  {
+    "title": "Way of the Samurai 2",
+    "year": 2003,
+    "company": "Capcom",
+    "genre": "Action-adventure",
+    "id": "way-of-the-samurai-2"
+  },
+  {
+    "title": "Shinobi",
+    "year": 2002,
+    "company": "Sega",
+    "genre": "Action",
+    "id": "shinobi"
+  },
+  {
+    "title": "Nightshade",
+    "year": 2003,
+    "company": "Sega",
+    "genre": "Action",
+    "id": "nightshade"
+  },
+  {
+    "title": "Tenchu: Wrath of Heaven",
+    "year": 2003,
+    "company": "Activision",
+    "genre": "Stealth/Action",
+    "id": "tenchu-wrath-of-heaven"
+  },
+  {
+    "title": "Tenchu: Fatal Shadows",
+    "year": 2004,
+    "company": "Sega",
+    "genre": "Stealth/Action",
+    "id": "tenchu-fatal-shadows"
+  },
+  {
+    "title": "Genji: Dawn of the Samurai",
+    "year": 2005,
+    "company": "Sony Computer Ent.",
+    "genre": "Action",
+    "id": "genji-dawn-of-the-samurai"
+  },
+  {
+    "title": "God Hand",
+    "year": 2006,
+    "company": "Capcom",
+    "genre": "Beat 'em up",
+    "id": "god-hand"
+  },
+  {
+    "title": "Viewtiful Joe",
+    "year": 2004,
+    "company": "Capcom",
+    "genre": "Action",
+    "id": "viewtiful-joe"
+  },
+  {
+    "title": "Viewtiful Joe 2",
+    "year": 2004,
+    "company": "Capcom",
+    "genre": "Action",
+    "id": "viewtiful-joe-2"
+  },
+  {
+    "title": "Killer7",
+    "year": 2005,
+    "company": "Capcom",
+    "genre": "Action-adventure",
+    "id": "killer7"
+  },
+  {
+    "title": "Scarface: The World Is Yours",
+    "year": 2006,
+    "company": "Vivendi Games",
+    "genre": "Action-adventure",
+    "id": "scarface-the-world-is-yours"
+  },
+  {
+    "title": "The Godfather",
+    "year": 2006,
+    "company": "Electronic Arts",
+    "genre": "Action-adventure",
+    "id": "the-godfather"
+  },
+  {
+    "title": "Mercenaries: Playground of Destruction",
+    "year": 2005,
+    "company": "LucasArts",
+    "genre": "Action-adventure",
+    "id": "mercenaries-playground-of-destruction"
+  },
+  {
+    "title": "Destroy All Humans!",
+    "year": 2005,
+    "company": "THQ",
+    "genre": "Action-adventure",
+    "id": "destroy-all-humans"
+  },
+  {
+    "title": "Destroy All Humans! 2",
+    "year": 2006,
+    "company": "THQ",
+    "genre": "Action-adventure",
+    "id": "destroy-all-humans-2"
+  },
+  {
+    "title": "The Getaway",
+    "year": 2002,
+    "company": "Sony Computer Ent.",
+    "genre": "Action-adventure",
+    "id": "the-getaway"
+  },
+  {
+    "title": "The Getaway: Black Monday",
+    "year": 2004,
+    "company": "Sony Computer Ent.",
+    "genre": "Action-adventure",
+    "id": "the-getaway-black-monday"
+  },
+  {
+    "title": "Yakuza",
+    "year": 2005,
+    "company": "Sega",
+    "genre": "Action-adventure",
+    "id": "yakuza"
+  },
+  {
+    "title": "Yakuza 2",
+    "year": 2006,
+    "company": "Sega",
+    "genre": "Action-adventure",
+    "id": "yakuza-2"
+  },
+  {
+    "title": "Gun",
+    "year": 2005,
+    "company": "Activision",
+    "genre": "Action-adventure",
+    "id": "gun"
+  },
+  {
+    "title": "True Crime: Streets of LA",
+    "year": 2003,
+    "company": "Activision",
+    "genre": "Action-adventure",
+    "id": "true-crime-streets-of-la"
+  },
+  {
+    "title": "True Crime: New York City",
+    "year": 2005,
+    "company": "Activision",
+    "genre": "Action-adventure",
+    "id": "true-crime-new-york-city"
+  },
+  {
+    "title": "Driver: Parallel Lines",
+    "year": 2006,
+    "company": "Atari",
+    "genre": "Action-driving",
+    "id": "driver-parallel-lines"
+  },
+  {
+    "title": "The Matrix: Path of Neo",
+    "year": 2005,
+    "company": "Atari",
+    "genre": "Action",
+    "id": "the-matrix-path-of-neo"
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "year": 2002,
+    "company": "Electronic Arts",
+    "genre": "Action",
+    "id": "the-lord-of-the-rings-the-two-towers"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
     "year": 2003,
     "company": "Electronic Arts",
-    "genre": "Sports",
-    "id": "ssx-3"
+    "genre": "Action",
+    "id": "the-lord-of-the-rings-the-return-of-the-king"
+  },
+  {
+    "title": "The Lord of the Rings: The Third Age",
+    "year": 2004,
+    "company": "Electronic Arts",
+    "genre": "RPG",
+    "id": "the-lord-of-the-rings-the-third-age"
+  },
+  {
+    "title": "Star Wars: Battlefront",
+    "year": 2004,
+    "company": "LucasArts",
+    "genre": "Shooter",
+    "id": "star-wars-battlefront"
+  },
+  {
+    "title": "Star Wars: Battlefront II",
+    "year": 2005,
+    "company": "LucasArts",
+    "genre": "Shooter",
+    "id": "star-wars-battlefront-ii"
+  },
+  {
+    "title": "Star Wars: Bounty Hunter",
+    "year": 2002,
+    "company": "LucasArts",
+    "genre": "Action-adventure",
+    "id": "star-wars-bounty-hunter"
+  },
+  {
+    "title": "LEGO Star Wars: The Video Game",
+    "year": 2005,
+    "company": "Eidos Interactive",
+    "genre": "Action-adventure",
+    "id": "lego-star-wars-the-video-game"
+  },
+  {
+    "title": "LEGO Star Wars II: The Original Trilogy",
+    "year": 2006,
+    "company": "LucasArts",
+    "genre": "Action-adventure",
+    "id": "lego-star-wars-ii-the-original-trilogy"
+  },
+  {
+    "title": "Spider-Man",
+    "year": 2002,
+    "company": "Activision",
+    "genre": "Action-adventure",
+    "id": "spider-man"
+  },
+  {
+    "title": "Spider-Man 2",
+    "year": 2004,
+    "company": "Activision",
+    "genre": "Action-adventure",
+    "id": "spider-man-2"
+  },
+  {
+    "title": "Ultimate Spider-Man",
+    "year": 2005,
+    "company": "Activision",
+    "genre": "Action-adventure",
+    "id": "ultimate-spider-man"
+  },
+  {
+    "title": "The Incredible Hulk: Ultimate Destruction",
+    "year": 2005,
+    "company": "Vivendi Games",
+    "genre": "Action-adventure",
+    "id": "the-incredible-hulk-ultimate-destruction"
+  },
+  {
+    "title": "X-Men Legends",
+    "year": 2004,
+    "company": "Activision",
+    "genre": "Action RPG",
+    "id": "x-men-legends"
+  },
+  {
+    "title": "X-Men Legends II: Rise of Apocalypse",
+    "year": 2005,
+    "company": "Activision",
+    "genre": "Action RPG",
+    "id": "x-men-legends-ii-rise-of-apocalypse"
+  },
+  {
+    "title": "Marvel: Ultimate Alliance",
+    "year": 2006,
+    "company": "Activision",
+    "genre": "Action RPG",
+    "id": "marvel-ultimate-alliance"
+  },
+  {
+    "title": "The Simpsons: Hit & Run",
+    "year": 2003,
+    "company": "Vivendi Universal Games",
+    "genre": "Action-adventure",
+    "id": "the-simpsons-hit-and-run"
+  },
+  {
+    "title": "The Simpsons Game",
+    "year": 2007,
+    "company": "Electronic Arts",
+    "genre": "Action-adventure",
+    "id": "the-simpsons-game"
+  },
+  {
+    "title": "Futurama",
+    "year": 2003,
+    "company": "Vivendi Universal Games",
+    "genre": "Action-adventure",
+    "id": "futurama"
+  },
+  {
+    "title": "Jak and Daxter: The Precursor Legacy",
+    "year": 2001,
+    "company": "Sony Computer Ent.",
+    "genre": "Platformer",
+    "id": "jak-and-daxter-the-precursor-legacy"
+  },
+  {
+    "title": "Jak II",
+    "year": 2003,
+    "company": "Sony Computer Ent.",
+    "genre": "Platformer",
+    "id": "jak-ii"
+  },
+  {
+    "title": "Jak 3",
+    "year": 2004,
+    "company": "Sony Computer Ent.",
+    "genre": "Platformer",
+    "id": "jak-3"
+  },
+  {
+    "title": "Jak X: Combat Racing",
+    "year": 2005,
+    "company": "Sony Computer Ent.",
+    "genre": "Racing",
+    "id": "jak-x-combat-racing"
+  },
+  {
+    "title": "Ratchet & Clank",
+    "year": 2002,
+    "company": "Sony Computer Ent.",
+    "genre": "Platformer",
+    "id": "ratchet-and-clank"
+  },
+  {
+    "title": "Ratchet & Clank: Going Commando",
+    "year": 2003,
+    "company": "Sony Computer Ent.",
+    "genre": "Platformer",
+    "id": "ratchet-and-clank-going-commando"
+  },
+  {
+    "title": "Ratchet & Clank: Up Your Arsenal",
+    "year": 2004,
+    "company": "Sony Computer Ent.",
+    "genre": "Platformer",
+    "id": "ratchet-and-clank-up-your-arsenal"
+  },
+  {
+    "title": "Ratchet: Deadlocked",
+    "year": 2005,
+    "company": "Sony Computer Ent.",
+    "genre": "Action",
+    "id": "ratchet-deadlocked"
+  },
+  {
+    "title": "Sly Cooper and the Thievius Raccoonus",
+    "year": 2002,
+    "company": "Sony Computer Ent.",
+    "genre": "Platformer",
+    "id": "sly-cooper-and-the-thievius-raccoonus"
+  },
+  {
+    "title": "Sly 2: Band of Thieves",
+    "year": 2004,
+    "company": "Sony Computer Ent.",
+    "genre": "Platformer",
+    "id": "sly-2-band-of-thieves"
+  },
+  {
+    "title": "Sly 3: Honor Among Thieves",
+    "year": 2005,
+    "company": "Sony Computer Ent.",
+    "genre": "Platformer",
+    "id": "sly-3-honor-among-thieves"
+  },
+  {
+    "title": "Rayman 2: Revolution",
+    "year": 2000,
+    "company": "Ubisoft",
+    "genre": "Platformer",
+    "id": "rayman-2-revolution"
+  },
+  {
+    "title": "Rayman 3: Hoodlum Havoc",
+    "year": 2003,
+    "company": "Ubisoft",
+    "genre": "Platformer",
+    "id": "rayman-3-hoodlum-havoc"
+  },
+  {
+    "title": "Psychonauts",
+    "year": 2005,
+    "company": "Majesco",
+    "genre": "Platformer",
+    "id": "psychonauts"
+  },
+  {
+    "title": "Ape Escape 2",
+    "year": 2002,
+    "company": "Sony Computer Ent.",
+    "genre": "Platformer",
+    "id": "ape-escape-2"
+  },
+  {
+    "title": "Ape Escape 3",
+    "year": 2005,
+    "company": "Sony Computer Ent.",
+    "genre": "Platformer",
+    "id": "ape-escape-3"
   },
   {
     "title": "Katamari Damacy",
@@ -203,6 +644,55 @@
     "id": "katamari-damacy"
   },
   {
+    "title": "We Love Katamari",
+    "year": 2005,
+    "company": "Namco",
+    "genre": "Puzzle",
+    "id": "we-love-katamari"
+  },
+  {
+    "title": "SSX",
+    "year": 2000,
+    "company": "Electronic Arts",
+    "genre": "Sports",
+    "id": "ssx"
+  },
+  {
+    "title": "SSX Tricky",
+    "year": 2001,
+    "company": "Electronic Arts",
+    "genre": "Sports",
+    "id": "ssx-tricky"
+  },
+  {
+    "title": "SSX 3",
+    "year": 2003,
+    "company": "Electronic Arts",
+    "genre": "Sports",
+    "id": "ssx-3"
+  },
+  {
+    "title": "Guitar Hero",
+    "year": 2005,
+    "company": "RedOctane",
+    "genre": "Music",
+    "id": "guitar-hero"
+  },
+  {
+    "title": "Guitar Hero II",
+    "year": 2006,
+    "company": "RedOctane",
+    "genre": "Music",
+    "id": "guitar-hero-ii"
+  },
+  {
+    "title": "Silent Hill 2",
+    "year": 2001,
+    "company": "Konami",
+    "genre": "Survival Horror",
+    "id": "silent-hill-2"
+  },
+  {
     "title": "Silent Hill 3",
     "year": 2003,
     "company": "Konami",
@@ -210,1893 +700,1592 @@
     "id": "silent-hill-3"
   },
   {
-    "id": "kingdom-hearts",
-    "title": "Kingdom Hearts",
-    "year": 2004,
-    "company": "Square Enix",
-    "genre": "Action RPG"
-  },
-  {
-    "id": "final-fantasy-xii",
-    "title": "Final Fantasy XII",
-    "year": 2004,
-    "company": "Square Enix",
-    "genre": "RPG"
-  },
-  {
-    "id": "metal-gear-solid-2-sons-of-liberty",
-    "title": "Metal Gear Solid 2: Sons of Liberty",
-    "year": 2004,
-    "company": "Konami",
-    "genre": "Stealth"
-  },
-  {
-    "id": "god-of-war",
-    "title": "God of War",
-    "year": 2004,
-    "company": "Sony Computer Ent.",
-    "genre": "Action"
-  },
-  {
-    "id": "ratchet-clank-up-your-arsenal",
-    "title": "Ratchet & Clank: Up Your Arsenal",
-    "year": 2004,
-    "company": "Sony Computer Ent.",
-    "genre": "Platformer"
-  },
-  {
-    "id": "jak-3",
-    "title": "Jak 3",
-    "year": 2004,
-    "company": "Sony Computer Ent.",
-    "genre": "Platformer"
-  },
-  {
-    "id": "sly-cooper-and-the-thievius-raccoonus",
-    "title": "Sly Cooper and the Thievius Raccoonus",
-    "year": 2004,
-    "company": "Sony Computer Ent.",
-    "genre": "Platformer"
-  },
-  {
-    "id": "devil-may-cry",
-    "title": "Devil May Cry",
-    "year": 2004,
-    "company": "Capcom",
-    "genre": "Action"
-  },
-  {
-    "id": "burnout-revenge",
-    "title": "Burnout Revenge",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Racing"
-  },
-  {
-    "id": "need-for-speed-underground-2",
-    "title": "Need for Speed: Underground 2",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Racing"
-  },
-  {
-    "id": "need-for-speed-most-wanted",
-    "title": "Need for Speed: Most Wanted",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Racing"
-  },
-  {
-    "id": "gran-turismo-4",
-    "title": "Gran Turismo 4",
-    "year": 2004,
-    "company": "Sony Computer Ent.",
-    "genre": "Racing"
-  },
-  {
-    "id": "midnight-club-3-dub-edition",
-    "title": "Midnight Club 3: DUB Edition",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "tony-hawks-pro-skater-4",
-    "title": "Tony Hawk's Pro Skater 4",
-    "year": 2004,
-    "company": "Activision",
-    "genre": "Sports"
-  },
-  {
-    "id": "tony-hawks-underground",
-    "title": "Tony Hawk's Underground",
-    "year": 2004,
-    "company": "Activision",
-    "genre": "Sports"
-  },
-  {
-    "id": "tony-hawks-underground-2",
-    "title": "Tony Hawk's Underground 2",
-    "year": 2004,
-    "company": "Activision",
-    "genre": "Sports"
-  },
-  {
-    "id": "star-wars-battlefront",
-    "title": "Star Wars: Battlefront",
-    "year": 2004,
-    "company": "LucasArts",
-    "genre": "Action"
-  },
-  {
-    "id": "resident-evil-code-veronica-x",
-    "title": "Resident Evil: Code Veronica X",
-    "year": 2004,
-    "company": "Capcom",
-    "genre": "Survival Horror"
-  },
-  {
-    "id": "silent-hill-4-the-room",
     "title": "Silent Hill 4: The Room",
     "year": 2004,
     "company": "Konami",
-    "genre": "Survival Horror"
+    "genre": "Survival Horror",
+    "id": "silent-hill-4-the-room"
   },
   {
-    "id": "fatal-frame-ii-crimson-butterfly",
-    "title": "Fatal Frame II: Crimson Butterfly",
-    "year": 2004,
-    "company": "Tecmo",
-    "genre": "Survival Horror"
+    "title": "Silent Hill: Origins",
+    "year": 2007,
+    "company": "Konami",
+    "genre": "Survival Horror",
+    "id": "silent-hill-origins"
   },
   {
-    "id": "onimusha-warlords",
-    "title": "Onimusha: Warlords",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "title": "Resident Evil 4",
+    "year": 2005,
+    "company": "Capcom",
+    "genre": "Survival Horror",
+    "id": "resident-evil-4"
   },
   {
-    "id": "onimusha-2-samurais-destiny",
-    "title": "Onimusha 2: Samurai's Destiny",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "title": "Resident Evil Code: Veronica X",
+    "year": 2001,
+    "company": "Capcom",
+    "genre": "Survival Horror",
+    "id": "resident-evil-code-veronica-x"
   },
   {
-    "id": "onimusha-3-demon-siege",
-    "title": "Onimusha 3: Demon Siege",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "title": "Resident Evil Outbreak",
+    "year": 2003,
+    "company": "Capcom",
+    "genre": "Survival Horror",
+    "id": "resident-evil-outbreak"
   },
   {
-    "id": "devil-may-cry-2",
-    "title": "Devil May Cry 2",
+    "title": "Resident Evil Outbreak File #2",
     "year": 2004,
     "company": "Capcom",
-    "genre": "Action"
+    "genre": "Survival Horror",
+    "id": "resident-evil-outbreak-file-2"
   },
   {
-    "id": "ratchet-clank",
-    "title": "Ratchet & Clank",
-    "year": 2004,
-    "company": "Sony Computer Ent.",
-    "genre": "Platformer"
-  },
-  {
-    "id": "jak-and-daxter-the-precursor-legacy",
-    "title": "Jak and Daxter: The Precursor Legacy",
-    "year": 2004,
-    "company": "Sony Computer Ent.",
-    "genre": "Platformer"
-  },
-  {
-    "id": "sly-3-honor-among-thieves",
-    "title": "Sly 3: Honor Among Thieves",
-    "year": 2004,
-    "company": "Sony Computer Ent.",
-    "genre": "Platformer"
-  },
-  {
-    "id": "rayman-2-revolution",
-    "title": "Rayman 2: Revolution",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "rayman-3-hoodlum-havoc",
-    "title": "Rayman 3: Hoodlum Havoc",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "psychonauts",
-    "title": "Psychonauts",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "viewtiful-joe",
-    "title": "Viewtiful Joe",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "viewtiful-joe-2",
-    "title": "Viewtiful Joe 2",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "killer7",
-    "title": "Killer7",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "the-warriors",
-    "title": "The Warriors",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "max-payne",
-    "title": "Max Payne",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "max-payne-2-the-fall-of-max-payne",
-    "title": "Max Payne 2: The Fall of Max Payne",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "hitman-blood-money",
-    "title": "Hitman: Blood Money",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "hitman-2-silent-assassin",
-    "title": "Hitman 2: Silent Assassin",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "splinter-cell",
-    "title": "Splinter Cell",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "splinter-cell-chaos-theory",
-    "title": "Splinter Cell: Chaos Theory",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "splinter-cell-pandora-tomorrow",
-    "title": "Splinter Cell: Pandora Tomorrow",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "splinter-cell-double-agent",
-    "title": "Splinter Cell: Double Agent",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "mercenaries-playground-of-destruction",
-    "title": "Mercenaries: Playground of Destruction",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "destroy-all-humans",
-    "title": "Destroy All Humans!",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "destroy-all-humans-2",
-    "title": "Destroy All Humans! 2",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "the-simpsons-hit-run",
-    "title": "The Simpsons Hit & Run",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "the-simpsons-game",
-    "title": "The Simpsons Game",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "family-guy-video-game",
-    "title": "Family Guy Video Game!",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "futurama",
-    "title": "Futurama",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "scarface-the-world-is-yours",
-    "title": "Scarface: The World is Yours",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "the-godfather",
-    "title": "The Godfather",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "true-crime-streets-of-la",
-    "title": "True Crime: Streets of LA",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "true-crime-new-york-city",
-    "title": "True Crime: New York City",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "driver-parallel-lines",
-    "title": "Driver: Parallel Lines",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "driv3r",
-    "title": "Driv3r",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "getaway-the",
-    "title": "Getaway, The",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "getaway-black-monday-the",
-    "title": "Getaway: Black Monday, The",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "ace-combat-04-shattered-skies",
-    "title": "Ace Combat 04: Shattered Skies",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "ace-combat-5-the-unsung-war",
-    "title": "Ace Combat 5: The Unsung War",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "ace-combat-zero-the-belkan-war",
-    "title": "Ace Combat Zero: The Belkan War",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "ape-escape-2",
-    "title": "Ape Escape 2",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "ape-escape-3",
-    "title": "Ape Escape 3",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "dark-cloud",
-    "title": "Dark Cloud",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "dark-cloud-2",
-    "title": "Dark Cloud 2",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "rogue-galaxy",
-    "title": "Rogue Galaxy",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "tales-of-the-abyss",
-    "title": "Tales of the Abyss",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "tales-of-legendia",
-    "title": "Tales of Legendia",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "shin-megami-tensei-nocturne",
-    "title": "Shin Megami Tensei: Nocturne",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "digital-devil-saga",
-    "title": "Digital Devil Saga",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "digital-devil-saga-2",
-    "title": "Digital Devil Saga 2",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "persona-3",
-    "title": "Persona 3",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "disgaea-hour-of-darkness",
-    "title": "Disgaea: Hour of Darkness",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "disgaea-2-cursed-memories",
-    "title": "Disgaea 2: Cursed Memories",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "phantom-brave",
-    "title": "Phantom Brave",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "makai-kingdom",
-    "title": "Makai Kingdom",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "suikoden-iii",
-    "title": "Suikoden III",
-    "year": 2004,
-    "company": "Konami",
-    "genre": "RPG"
-  },
-  {
-    "id": "suikoden-iv",
-    "title": "Suikoden IV",
-    "year": 2004,
-    "company": "Konami",
-    "genre": "RPG"
-  },
-  {
-    "id": "suikoden-v",
-    "title": "Suikoden V",
-    "year": 2004,
-    "company": "Konami",
-    "genre": "RPG"
-  },
-  {
-    "id": "xenosaga-episode-i",
-    "title": "Xenosaga Episode I",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "xenosaga-episode-ii",
-    "title": "Xenosaga Episode II",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "xenosaga-episode-iii",
-    "title": "Xenosaga Episode III",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "hacksign",
-    "title": ".hack//Sign",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "hackmutation",
-    "title": ".hack//Mutation",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "hackoutbreak",
-    "title": ".hack//Outbreak",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "hackquarantine",
-    "title": ".hack//Quarantine",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "hackgu-vol-1rebirth",
-    "title": ".hack//G.U. Vol. 1//Rebirth",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "hackgu-vol-2reminisce",
-    "title": ".hack//G.U. Vol. 2//Reminisce",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "hackgu-vol-3redemption",
-    "title": ".hack//G.U. Vol. 3//Redemption",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "star-ocean-till-the-end-of-time",
-    "title": "Star Ocean: Till the End of Time",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "valkyrie-profile-2-silmeria",
-    "title": "Valkyrie Profile 2: Silmeria",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "wild-arms-3",
-    "title": "Wild Arms 3",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "wild-arms-4",
-    "title": "Wild Arms 4",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "wild-arms-5",
-    "title": "Wild Arms 5",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "grandia-ii",
-    "title": "Grandia II",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "grandia-iii",
-    "title": "Grandia III",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "lunar-dragon-song",
-    "title": "Lunar: Dragon Song",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "breath-of-fire-dragon-quarter",
-    "title": "Breath of Fire: Dragon Quarter",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "shinobi",
-    "title": "Shinobi",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "nightshade",
-    "title": "Nightshade",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "kunoichi",
-    "title": "Kunoichi",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "zone-of-the-enders",
-    "title": "Zone of the Enders",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "zone-of-the-enders-the-2nd-runner",
-    "title": "Zone of the Enders: The 2nd Runner",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "armored-core-2",
-    "title": "Armored Core 2",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "armored-core-3",
-    "title": "Armored Core 3",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "armored-core-silent-line",
-    "title": "Armored Core: Silent Line",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "armored-core-nexus",
-    "title": "Armored Core: Nexus",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "armored-core-last-raven",
-    "title": "Armored Core: Last Raven",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "dynasty-warriors-3",
-    "title": "Dynasty Warriors 3",
-    "year": 2004,
-    "company": "Koei",
-    "genre": "Hack and Slash"
-  },
-  {
-    "id": "dynasty-warriors-4",
-    "title": "Dynasty Warriors 4",
-    "year": 2004,
-    "company": "Koei",
-    "genre": "Hack and Slash"
-  },
-  {
-    "id": "dynasty-warriors-5",
-    "title": "Dynasty Warriors 5",
-    "year": 2004,
-    "company": "Koei",
-    "genre": "Hack and Slash"
-  },
-  {
-    "id": "samurai-warriors",
-    "title": "Samurai Warriors",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "samurai-warriors-2",
-    "title": "Samurai Warriors 2",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "warriors-orochi",
-    "title": "Warriors Orochi",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "dynasty-tactics",
-    "title": "Dynasty Tactics",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "dynasty-tactics-2",
-    "title": "Dynasty Tactics 2",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "kessen",
-    "title": "Kessen",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "kessen-ii",
-    "title": "Kessen II",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "kessen-iii",
-    "title": "Kessen III",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "romance-of-the-three-kingdoms-vii",
-    "title": "Romance of the Three Kingdoms VII",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "romance-of-the-three-kingdoms-viii",
-    "title": "Romance of the Three Kingdoms VIII",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "romance-of-the-three-kingdoms-ix",
-    "title": "Romance of the Three Kingdoms IX",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "romance-of-the-three-kingdoms-x",
-    "title": "Romance of the Three Kingdoms X",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "romance-of-the-three-kingdoms-xi",
-    "title": "Romance of the Three Kingdoms XI",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "nobunagas-ambition-rise-to-power",
-    "title": "Nobunaga's Ambition: Rise to Power",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "nobunagas-ambition-iron-triangle",
-    "title": "Nobunaga's Ambition: Iron Triangle",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "fatal-frame",
     "title": "Fatal Frame",
-    "year": 2004,
+    "year": 2001,
     "company": "Tecmo",
-    "genre": "Survival Horror"
+    "genre": "Survival Horror",
+    "id": "fatal-frame"
   },
   {
-    "id": "fatal-frame-iii-the-tormented",
+    "title": "Fatal Frame II: Crimson Butterfly",
+    "year": 2003,
+    "company": "Tecmo",
+    "genre": "Survival Horror",
+    "id": "fatal-frame-ii-crimson-butterfly"
+  },
+  {
     "title": "Fatal Frame III: The Tormented",
-    "year": 2004,
+    "year": 2005,
     "company": "Tecmo",
-    "genre": "Survival Horror"
+    "genre": "Survival Horror",
+    "id": "fatal-frame-iii-the-tormented"
   },
   {
-    "id": "siren",
-    "title": "Siren",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "forbidden-siren-2",
-    "title": "Forbidden Siren 2",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "haunting-ground",
     "title": "Haunting Ground",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "year": 2005,
+    "company": "Capcom",
+    "genre": "Survival Horror",
+    "id": "haunting-ground"
   },
   {
-    "id": "rule-of-rose",
     "title": "Rule of Rose",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "year": 2006,
+    "company": "Atlus",
+    "genre": "Survival Horror",
+    "id": "rule-of-rose"
   },
   {
-    "id": "clock-tower-3",
     "title": "Clock Tower 3",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "year": 2002,
+    "company": "Capcom",
+    "genre": "Survival Horror",
+    "id": "clock-tower-3"
   },
   {
-    "id": "kuon",
     "title": "Kuon",
     "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "company": "Agetec",
+    "genre": "Survival Horror",
+    "id": "kuon"
   },
   {
-    "id": "obscure",
+    "title": "The Suffering",
+    "year": 2004,
+    "company": "Midway Games",
+    "genre": "Survival Horror",
+    "id": "the-suffering"
+  },
+  {
+    "title": "The Suffering: Ties That Bind",
+    "year": 2005,
+    "company": "Midway Games",
+    "genre": "Survival Horror",
+    "id": "the-suffering-ties-that-bind"
+  },
+  {
+    "title": "Siren",
+    "year": 2003,
+    "company": "Sony Computer Ent.",
+    "genre": "Survival Horror",
+    "id": "siren"
+  },
+  {
+    "title": "Forbidden Siren 2",
+    "year": 2006,
+    "company": "Sony Computer Ent.",
+    "genre": "Survival Horror",
+    "id": "forbidden-siren-2"
+  },
+  {
     "title": "Obscure",
     "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "company": "MC2-Microïds",
+    "genre": "Survival Horror",
+    "id": "obscure"
   },
   {
-    "id": "obscure-the-aftermath",
     "title": "Obscure: The Aftermath",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "year": 2007,
+    "company": "Playlogic",
+    "genre": "Survival Horror",
+    "id": "obscure-the-aftermath"
   },
   {
-    "id": "cold-fear",
     "title": "Cold Fear",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "year": 2005,
+    "company": "Ubisoft",
+    "genre": "Survival Horror",
+    "id": "cold-fear"
   },
   {
-    "id": "the-thing",
     "title": "The Thing",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "year": 2002,
+    "company": "Vivendi Universal Games",
+    "genre": "Survival Horror",
+    "id": "the-thing"
   },
   {
-    "id": "extermination",
     "title": "Extermination",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "year": 2001,
+    "company": "Sony Computer Ent.",
+    "genre": "Survival Horror",
+    "id": "extermination"
   },
   {
-    "id": "ghosthunter",
     "title": "Ghosthunter",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "year": 2003,
+    "company": "Sony Computer Ent.",
+    "genre": "Action-adventure",
+    "id": "ghosthunter"
   },
   {
-    "id": "primal",
     "title": "Primal",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "year": 2003,
+    "company": "Sony Computer Ent.",
+    "genre": "Action-adventure",
+    "id": "primal"
   },
   {
-    "id": "medievil-resurrection",
-    "title": "MediEvil: Resurrection",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "title": "Final Fantasy X",
+    "year": 2001,
+    "company": "Square",
+    "genre": "RPG",
+    "id": "final-fantasy-x"
   },
   {
-    "id": "dragons-lair-3d",
-    "title": "Dragon's Lair 3D",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "title": "Final Fantasy X-2",
+    "year": 2003,
+    "company": "Square Enix",
+    "genre": "RPG",
+    "id": "final-fantasy-x-2"
   },
   {
-    "id": "gauntlet-dark-legacy",
-    "title": "Gauntlet: Dark Legacy",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "title": "Final Fantasy XII",
+    "year": 2006,
+    "company": "Square Enix",
+    "genre": "RPG",
+    "id": "final-fantasy-xii"
   },
   {
-    "id": "gauntlet-seven-sorrows",
-    "title": "Gauntlet: Seven Sorrows",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "title": "Kingdom Hearts",
+    "year": 2002,
+    "company": "Square",
+    "genre": "Action RPG",
+    "id": "kingdom-hearts"
   },
   {
-    "id": "baldurs-gate-dark-alliance",
-    "title": "Baldur's Gate: Dark Alliance",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "title": "Kingdom Hearts II",
+    "year": 2005,
+    "company": "Square Enix",
+    "genre": "Action RPG",
+    "id": "kingdom-hearts-ii"
   },
   {
-    "id": "baldurs-gate-dark-alliance-ii",
-    "title": "Baldur's Gate: Dark Alliance II",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "champions-of-norrath",
-    "title": "Champions of Norrath",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "champions-return-to-arms",
-    "title": "Champions: Return to Arms",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "everquest-online-adventures",
-    "title": "EverQuest Online Adventures",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "final-fantasy-xi",
-    "title": "Final Fantasy XI",
+    "title": "Dragon Quest VIII: Journey of the Cursed King",
     "year": 2004,
     "company": "Square Enix",
-    "genre": "RPG"
+    "genre": "RPG",
+    "id": "dragon-quest-viii-journey-of-the-cursed-king"
   },
   {
-    "id": "phantasy-star-universe",
-    "title": "Phantasy Star Universe",
+    "title": "Persona 3 FES",
+    "year": 2007,
+    "company": "Atlus",
+    "genre": "RPG",
+    "id": "persona-3-fes"
+  },
+  {
+    "title": "Persona 4",
+    "year": 2008,
+    "company": "Atlus",
+    "genre": "RPG",
+    "id": "persona-4"
+  },
+  {
+    "title": "Shin Megami Tensei III: Nocturne",
+    "year": 2003,
+    "company": "Atlus",
+    "genre": "RPG",
+    "id": "shin-megami-tensei-iii-nocturne"
+  },
+  {
+    "title": "Shin Megami Tensei: Digital Devil Saga",
     "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "company": "Atlus",
+    "genre": "RPG",
+    "id": "shin-megami-tensei-digital-devil-saga"
   },
   {
-    "id": "monster-hunter",
+    "title": "Shin Megami Tensei: Digital Devil Saga 2",
+    "year": 2005,
+    "company": "Atlus",
+    "genre": "RPG",
+    "id": "shin-megami-tensei-digital-devil-saga-2"
+  },
+  {
+    "title": "Shin Megami Tensei: Devil Summoner - Raidou Kuzunoha vs. The Soulless Army",
+    "year": 2006,
+    "company": "Atlus",
+    "genre": "RPG",
+    "id": "shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-soulless-army"
+  },
+  {
+    "title": "Devil Summoner 2: Raidou Kuzunoha vs. King Abaddon",
+    "year": 2008,
+    "company": "Atlus",
+    "genre": "RPG",
+    "id": "devil-summoner-2-raidou-kuzunoha-vs-king-abaddon"
+  },
+  {
+    "title": "Shadow Hearts",
+    "year": 2001,
+    "company": "Midway Games",
+    "genre": "RPG",
+    "id": "shadow-hearts"
+  },
+  {
+    "title": "Shadow Hearts: Covenant",
+    "year": 2004,
+    "company": "Midway Games",
+    "genre": "RPG",
+    "id": "shadow-hearts-covenant"
+  },
+  {
+    "title": "Shadow Hearts: From the New World",
+    "year": 2005,
+    "company": "Xseed Games",
+    "genre": "RPG",
+    "id": "shadow-hearts-from-the-new-world"
+  },
+  {
+    "title": "Suikoden III",
+    "year": 2002,
+    "company": "Konami",
+    "genre": "RPG",
+    "id": "suikoden-iii"
+  },
+  {
+    "title": "Suikoden V",
+    "year": 2006,
+    "company": "Konami",
+    "genre": "RPG",
+    "id": "suikoden-v"
+  },
+  {
+    "title": "Xenosaga Episode I: Der Wille zur Macht",
+    "year": 2002,
+    "company": "Namco",
+    "genre": "RPG",
+    "id": "xenosaga-episode-i-der-wille-zur-macht"
+  },
+  {
+    "title": "Xenosaga Episode II: Jenseits von Gut und Böse",
+    "year": 2004,
+    "company": "Namco",
+    "genre": "RPG",
+    "id": "xenosaga-episode-ii-jenseits-von-gut-und-b-se"
+  },
+  {
+    "title": "Xenosaga Episode III: Also sprach Zarathustra",
+    "year": 2006,
+    "company": "Namco",
+    "genre": "RPG",
+    "id": "xenosaga-episode-iii-also-sprach-zarathustra"
+  },
+  {
+    "title": "Wild Arms 3",
+    "year": 2002,
+    "company": "Sony Computer Ent.",
+    "genre": "RPG",
+    "id": "wild-arms-3"
+  },
+  {
+    "title": "Wild Arms 4",
+    "year": 2005,
+    "company": "Xseed Games",
+    "genre": "RPG",
+    "id": "wild-arms-4"
+  },
+  {
+    "title": "Wild Arms 5",
+    "year": 2006,
+    "company": "Xseed Games",
+    "genre": "RPG",
+    "id": "wild-arms-5"
+  },
+  {
+    "title": "Dark Cloud",
+    "year": 2000,
+    "company": "Sony Computer Ent.",
+    "genre": "Action RPG",
+    "id": "dark-cloud"
+  },
+  {
+    "title": "Dark Cloud 2",
+    "year": 2002,
+    "company": "Sony Computer Ent.",
+    "genre": "Action RPG",
+    "id": "dark-cloud-2"
+  },
+  {
+    "title": "Rogue Galaxy",
+    "year": 2005,
+    "company": "Sony Computer Ent.",
+    "genre": "Action RPG",
+    "id": "rogue-galaxy"
+  },
+  {
+    "title": "Radiata Stories",
+    "year": 2005,
+    "company": "Square Enix",
+    "genre": "RPG",
+    "id": "radiata-stories"
+  },
+  {
+    "title": "Star Ocean: Till the End of Time",
+    "year": 2003,
+    "company": "Square Enix",
+    "genre": "RPG",
+    "id": "star-ocean-till-the-end-of-time"
+  },
+  {
+    "title": "Valkyrie Profile 2: Silmeria",
+    "year": 2006,
+    "company": "Square Enix",
+    "genre": "RPG",
+    "id": "valkyrie-profile-2-silmeria"
+  },
+  {
+    "title": "Grandia II",
+    "year": 2002,
+    "company": "Ubisoft",
+    "genre": "RPG",
+    "id": "grandia-ii"
+  },
+  {
+    "title": "Grandia III",
+    "year": 2005,
+    "company": "Square Enix",
+    "genre": "RPG",
+    "id": "grandia-iii"
+  },
+  {
+    "title": "Legaia 2: Duel Saga",
+    "year": 2001,
+    "company": "Sony Computer Ent.",
+    "genre": "RPG",
+    "id": "legaia-2-duel-saga"
+  },
+  {
+    "title": "Breath of Fire: Dragon Quarter",
+    "year": 2002,
+    "company": "Capcom",
+    "genre": "RPG",
+    "id": "breath-of-fire-dragon-quarter"
+  },
+  {
+    "title": "Arc the Lad: Twilight of the Spirits",
+    "year": 2003,
+    "company": "Sony Computer Ent.",
+    "genre": "RPG",
+    "id": "arc-the-lad-twilight-of-the-spirits"
+  },
+  {
+    "title": "Romancing SaGa",
+    "year": 2005,
+    "company": "Square Enix",
+    "genre": "RPG",
+    "id": "romancing-saga"
+  },
+  {
+    "title": "Tales of the Abyss",
+    "year": 2005,
+    "company": "Namco",
+    "genre": "RPG",
+    "id": "tales-of-the-abyss"
+  },
+  {
+    "title": "Tales of Legendia",
+    "year": 2005,
+    "company": "Namco",
+    "genre": "RPG",
+    "id": "tales-of-legendia"
+  },
+  {
+    "title": ".hack//Infection",
+    "year": 2002,
+    "company": "Bandai",
+    "genre": "RPG",
+    "id": "hack-infection"
+  },
+  {
+    "title": ".hack//Mutation",
+    "year": 2002,
+    "company": "Bandai",
+    "genre": "RPG",
+    "id": "hack-mutation"
+  },
+  {
+    "title": ".hack//Outbreak",
+    "year": 2002,
+    "company": "Bandai",
+    "genre": "RPG",
+    "id": "hack-outbreak"
+  },
+  {
+    "title": ".hack//Quarantine",
+    "year": 2003,
+    "company": "Bandai",
+    "genre": "RPG",
+    "id": "hack-quarantine"
+  },
+  {
+    "title": ".hack//G.U. Vol. 1: Rebirth",
+    "year": 2006,
+    "company": "Bandai",
+    "genre": "RPG",
+    "id": "hack-g-u-vol-1-rebirth"
+  },
+  {
+    "title": ".hack//G.U. Vol. 2: Reminisce",
+    "year": 2006,
+    "company": "Bandai",
+    "genre": "RPG",
+    "id": "hack-g-u-vol-2-reminisce"
+  },
+  {
+    "title": ".hack//G.U. Vol. 3: Redemption",
+    "year": 2007,
+    "company": "Bandai",
+    "genre": "RPG",
+    "id": "hack-g-u-vol-3-redemption"
+  },
+  {
+    "title": "Atelier Iris: Eternal Mana",
+    "year": 2004,
+    "company": "NIS America",
+    "genre": "RPG",
+    "id": "atelier-iris-eternal-mana"
+  },
+  {
+    "title": "Atelier Iris 2: The Azoth of Destiny",
+    "year": 2005,
+    "company": "NIS America",
+    "genre": "RPG",
+    "id": "atelier-iris-2-the-azoth-of-destiny"
+  },
+  {
+    "title": "Atelier Iris 3: Grand Phantasm",
+    "year": 2006,
+    "company": "NIS America",
+    "genre": "RPG",
+    "id": "atelier-iris-3-grand-phantasm"
+  },
+  {
+    "title": "Mana Khemia: Alchemists of Al-Revis",
+    "year": 2007,
+    "company": "NIS America",
+    "genre": "RPG",
+    "id": "mana-khemia-alchemists-of-al-revis"
+  },
+  {
+    "title": "Ar tonelico: Melody of Elemia",
+    "year": 2006,
+    "company": "NIS America",
+    "genre": "RPG",
+    "id": "ar-tonelico-melody-of-elemia"
+  },
+  {
+    "title": "Ar tonelico II: Melody of Metafalica",
+    "year": 2007,
+    "company": "NIS America",
+    "genre": "RPG",
+    "id": "ar-tonelico-ii-melody-of-metafalica"
+  },
+  {
+    "title": "Disgaea: Hour of Darkness",
+    "year": 2003,
+    "company": "Atlus",
+    "genre": "Tactical RPG",
+    "id": "disgaea-hour-of-darkness"
+  },
+  {
+    "title": "Disgaea 2: Cursed Memories",
+    "year": 2006,
+    "company": "NIS America",
+    "genre": "Tactical RPG",
+    "id": "disgaea-2-cursed-memories"
+  },
+  {
+    "title": "La Pucelle: Tactics",
+    "year": 2002,
+    "company": "Mastiff",
+    "genre": "Tactical RPG",
+    "id": "la-pucelle-tactics"
+  },
+  {
+    "title": "Phantom Brave",
+    "year": 2004,
+    "company": "NIS America",
+    "genre": "Tactical RPG",
+    "id": "phantom-brave"
+  },
+  {
+    "title": "Makai Kingdom: Chronicles of the Sacred Tome",
+    "year": 2005,
+    "company": "NIS America",
+    "genre": "Tactical RPG",
+    "id": "makai-kingdom-chronicles-of-the-sacred-tome"
+  },
+  {
+    "title": "Front Mission 4",
+    "year": 2003,
+    "company": "Square Enix",
+    "genre": "Tactical RPG",
+    "id": "front-mission-4"
+  },
+  {
+    "title": "Growlanser Generations",
+    "year": 2004,
+    "company": "Working Designs",
+    "genre": "RPG",
+    "id": "growlanser-generations"
+  },
+  {
+    "title": "Growlanser: Heritage of War",
+    "year": 2006,
+    "company": "Atlus",
+    "genre": "RPG",
+    "id": "growlanser-heritage-of-war"
+  },
+  {
+    "title": "Shining Force EXA",
+    "year": 2007,
+    "company": "Sega",
+    "genre": "Action RPG",
+    "id": "shining-force-exa"
+  },
+  {
+    "title": "Ys: The Ark of Napishtim",
+    "year": 2005,
+    "company": "Konami",
+    "genre": "Action RPG",
+    "id": "ys-the-ark-of-napishtim"
+  },
+  {
     "title": "Monster Hunter",
     "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "company": "Capcom",
+    "genre": "Action RPG",
+    "id": "monster-hunter"
   },
   {
-    "id": "monster-hunter-g",
-    "title": "Monster Hunter G",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "monster-hunter-2",
     "title": "Monster Hunter 2",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "year": 2006,
+    "company": "Capcom",
+    "genre": "Action RPG",
+    "id": "monster-hunter-2"
   },
   {
-    "id": "mortal-kombat-deadly-alliance",
+    "title": "Baldur's Gate: Dark Alliance",
+    "year": 2001,
+    "company": "Interplay",
+    "genre": "Action RPG",
+    "id": "baldurs-gate-dark-alliance"
+  },
+  {
+    "title": "Baldur's Gate: Dark Alliance II",
+    "year": 2004,
+    "company": "Interplay",
+    "genre": "Action RPG",
+    "id": "baldurs-gate-dark-alliance-ii"
+  },
+  {
+    "title": "Champions of Norrath",
+    "year": 2004,
+    "company": "Sony Online Entertainment",
+    "genre": "Action RPG",
+    "id": "champions-of-norrath"
+  },
+  {
+    "title": "Champions: Return to Arms",
+    "year": 2005,
+    "company": "Sony Online Entertainment",
+    "genre": "Action RPG",
+    "id": "champions-return-to-arms"
+  },
+  {
+    "title": "Summoner",
+    "year": 2000,
+    "company": "THQ",
+    "genre": "RPG",
+    "id": "summoner"
+  },
+  {
+    "title": "Summoner 2",
+    "year": 2002,
+    "company": "THQ",
+    "genre": "RPG",
+    "id": "summoner-2"
+  },
+  {
+    "title": "Gran Turismo 3: A-Spec",
+    "year": 2001,
+    "company": "Sony Computer Ent.",
+    "genre": "Racing",
+    "id": "gran-turismo-3-a-spec"
+  },
+  {
+    "title": "Gran Turismo 4",
+    "year": 2004,
+    "company": "Sony Computer Ent.",
+    "genre": "Racing",
+    "id": "gran-turismo-4"
+  },
+  {
+    "title": "Tourist Trophy",
+    "year": 2006,
+    "company": "Sony Computer Ent.",
+    "genre": "Racing",
+    "id": "tourist-trophy"
+  },
+  {
+    "title": "Burnout",
+    "year": 2001,
+    "company": "Acclaim Entertainment",
+    "genre": "Racing",
+    "id": "burnout"
+  },
+  {
+    "title": "Burnout 2: Point of Impact",
+    "year": 2002,
+    "company": "Acclaim Entertainment",
+    "genre": "Racing",
+    "id": "burnout-2-point-of-impact"
+  },
+  {
+    "title": "Burnout 3: Takedown",
+    "year": 2004,
+    "company": "Electronic Arts",
+    "genre": "Racing",
+    "id": "burnout-3-takedown"
+  },
+  {
+    "title": "Burnout Revenge",
+    "year": 2005,
+    "company": "Electronic Arts",
+    "genre": "Racing",
+    "id": "burnout-revenge"
+  },
+  {
+    "title": "Need for Speed: Hot Pursuit 2",
+    "year": 2002,
+    "company": "Electronic Arts",
+    "genre": "Racing",
+    "id": "need-for-speed-hot-pursuit-2"
+  },
+  {
+    "title": "Need for Speed: Underground",
+    "year": 2003,
+    "company": "Electronic Arts",
+    "genre": "Racing",
+    "id": "need-for-speed-underground"
+  },
+  {
+    "title": "Need for Speed: Underground 2",
+    "year": 2004,
+    "company": "Electronic Arts",
+    "genre": "Racing",
+    "id": "need-for-speed-underground-2"
+  },
+  {
+    "title": "Need for Speed: Most Wanted",
+    "year": 2005,
+    "company": "Electronic Arts",
+    "genre": "Racing",
+    "id": "need-for-speed-most-wanted"
+  },
+  {
+    "title": "Need for Speed: Carbon",
+    "year": 2006,
+    "company": "Electronic Arts",
+    "genre": "Racing",
+    "id": "need-for-speed-carbon"
+  },
+  {
+    "title": "Midnight Club: Street Racing",
+    "year": 2000,
+    "company": "Rockstar Games",
+    "genre": "Racing",
+    "id": "midnight-club-street-racing"
+  },
+  {
+    "title": "Midnight Club II",
+    "year": 2003,
+    "company": "Rockstar Games",
+    "genre": "Racing",
+    "id": "midnight-club-ii"
+  },
+  {
+    "title": "Midnight Club 3: DUB Edition Remix",
+    "year": 2006,
+    "company": "Rockstar Games",
+    "genre": "Racing",
+    "id": "midnight-club-3-dub-edition-remix"
+  },
+  {
+    "title": "OutRun 2006: Coast 2 Coast",
+    "year": 2006,
+    "company": "Sega",
+    "genre": "Racing",
+    "id": "outrun-2006-coast-2-coast"
+  },
+  {
+    "title": "Ridge Racer V",
+    "year": 2000,
+    "company": "Namco",
+    "genre": "Racing",
+    "id": "ridge-racer-v"
+  },
+  {
+    "title": "Auto Modellista",
+    "year": 2002,
+    "company": "Capcom",
+    "genre": "Racing",
+    "id": "auto-modellista"
+  },
+  {
+    "title": "Tokyo Xtreme Racer Zero",
+    "year": 2001,
+    "company": "Crave Entertainment",
+    "genre": "Racing",
+    "id": "tokyo-xtreme-racer-zero"
+  },
+  {
+    "title": "Tokyo Xtreme Racer 3",
+    "year": 2003,
+    "company": "Crave Entertainment",
+    "genre": "Racing",
+    "id": "tokyo-xtreme-racer-3"
+  },
+  {
+    "title": "Tokyo Xtreme Racer: Drift 2",
+    "year": 2005,
+    "company": "Crave Entertainment",
+    "genre": "Racing",
+    "id": "tokyo-xtreme-racer-drift-2"
+  },
+  {
+    "title": "Enthusia Professional Racing",
+    "year": 2005,
+    "company": "Konami",
+    "genre": "Racing",
+    "id": "enthusia-professional-racing"
+  },
+  {
+    "title": "Colin McRae Rally 3",
+    "year": 2002,
+    "company": "Codemasters",
+    "genre": "Racing",
+    "id": "colin-mcrae-rally-3"
+  },
+  {
+    "title": "Colin McRae Rally 04",
+    "year": 2003,
+    "company": "Codemasters",
+    "genre": "Racing",
+    "id": "colin-mcrae-rally-04"
+  },
+  {
+    "title": "Colin McRae Rally 2005",
+    "year": 2004,
+    "company": "Codemasters",
+    "genre": "Racing",
+    "id": "colin-mcrae-rally-2005"
+  },
+  {
+    "title": "Richard Burns Rally",
+    "year": 2004,
+    "company": "SCi Games",
+    "genre": "Racing",
+    "id": "richard-burns-rally"
+  },
+  {
+    "title": "WRC: World Rally Championship",
+    "year": 2001,
+    "company": "Sony Computer Ent.",
+    "genre": "Racing",
+    "id": "wrc-world-rally-championship"
+  },
+  {
+    "title": "WRC 3",
+    "year": 2003,
+    "company": "Sony Computer Ent.",
+    "genre": "Racing",
+    "id": "wrc-3"
+  },
+  {
+    "title": "WRC 4",
+    "year": 2004,
+    "company": "Sony Computer Ent.",
+    "genre": "Racing",
+    "id": "wrc-4"
+  },
+  {
+    "title": "WRC: Rally Evolved",
+    "year": 2005,
+    "company": "Sony Computer Ent.",
+    "genre": "Racing",
+    "id": "wrc-rally-evolved"
+  },
+  {
+    "title": "TOCA Race Driver",
+    "year": 2002,
+    "company": "Codemasters",
+    "genre": "Racing",
+    "id": "toca-race-driver"
+  },
+  {
+    "title": "TOCA Race Driver 2",
+    "year": 2004,
+    "company": "Codemasters",
+    "genre": "Racing",
+    "id": "toca-race-driver-2"
+  },
+  {
+    "title": "TOCA Race Driver 3",
+    "year": 2006,
+    "company": "Codemasters",
+    "genre": "Racing",
+    "id": "toca-race-driver-3"
+  },
+  {
+    "title": "FlatOut",
+    "year": 2004,
+    "company": "Empire Interactive",
+    "genre": "Racing",
+    "id": "flatout"
+  },
+  {
+    "title": "FlatOut 2",
+    "year": 2006,
+    "company": "Empire Interactive",
+    "genre": "Racing",
+    "id": "flatout-2"
+  },
+  {
+    "title": "Ace Combat 04: Shattered Skies",
+    "year": 2001,
+    "company": "Namco",
+    "genre": "Flight Combat",
+    "id": "ace-combat-04-shattered-skies"
+  },
+  {
+    "title": "Ace Combat 5: The Unsung War",
+    "year": 2004,
+    "company": "Namco",
+    "genre": "Flight Combat",
+    "id": "ace-combat-5-the-unsung-war"
+  },
+  {
+    "title": "Ace Combat Zero: The Belkan War",
+    "year": 2006,
+    "company": "Namco",
+    "genre": "Flight Combat",
+    "id": "ace-combat-zero-the-belkan-war"
+  },
+  {
+    "title": "Tekken Tag Tournament",
+    "year": 2000,
+    "company": "Namco",
+    "genre": "Fighting",
+    "id": "tekken-tag-tournament"
+  },
+  {
+    "title": "Tekken 4",
+    "year": 2001,
+    "company": "Namco",
+    "genre": "Fighting",
+    "id": "tekken-4"
+  },
+  {
+    "title": "Tekken 5",
+    "year": 2005,
+    "company": "Namco",
+    "genre": "Fighting",
+    "id": "tekken-5"
+  },
+  {
+    "title": "Virtua Fighter 4: Evolution",
+    "year": 2003,
+    "company": "Sega",
+    "genre": "Fighting",
+    "id": "virtua-fighter-4-evolution"
+  },
+  {
+    "title": "Soulcalibur II",
+    "year": 2003,
+    "company": "Namco",
+    "genre": "Fighting",
+    "id": "soulcalibur-ii"
+  },
+  {
+    "title": "Soulcalibur III",
+    "year": 2005,
+    "company": "Namco",
+    "genre": "Fighting",
+    "id": "soulcalibur-iii"
+  },
+  {
+    "title": "Dead or Alive 2: Hardcore",
+    "year": 2000,
+    "company": "Tecmo",
+    "genre": "Fighting",
+    "id": "dead-or-alive-2-hardcore"
+  },
+  {
     "title": "Mortal Kombat: Deadly Alliance",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "year": 2002,
+    "company": "Midway Games",
+    "genre": "Fighting",
+    "id": "mortal-kombat-deadly-alliance"
   },
   {
-    "id": "mortal-kombat-deception",
     "title": "Mortal Kombat: Deception",
     "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "company": "Midway Games",
+    "genre": "Fighting",
+    "id": "mortal-kombat-deception"
   },
   {
-    "id": "mortal-kombat-armageddon",
-    "title": "Mortal Kombat: Armageddon",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "mortal-kombat-shaolin-monks",
     "title": "Mortal Kombat: Shaolin Monks",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "year": 2005,
+    "company": "Midway Games",
+    "genre": "Beat 'em up",
+    "id": "mortal-kombat-shaolin-monks"
   },
   {
-    "id": "street-fighter-alpha-anthology",
-    "title": "Street Fighter Alpha Anthology",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "title": "Mortal Kombat: Armageddon",
+    "year": 2006,
+    "company": "Midway Games",
+    "genre": "Fighting",
+    "id": "mortal-kombat-armageddon"
   },
   {
-    "id": "street-fighter-iii-3rd-strike",
-    "title": "Street Fighter III: 3rd Strike",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "street-fighter-ex3",
-    "title": "Street Fighter EX3",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "capcom-vs-snk-2",
     "title": "Capcom vs. SNK 2",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "year": 2001,
+    "company": "Capcom",
+    "genre": "Fighting",
+    "id": "capcom-vs-snk-2"
   },
   {
-    "id": "marvel-vs-capcom-2",
     "title": "Marvel vs. Capcom 2",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "year": 2002,
+    "company": "Capcom",
+    "genre": "Fighting",
+    "id": "marvel-vs-capcom-2"
   },
   {
-    "id": "svc-chaos-snk-vs-capcom",
-    "title": "SVC Chaos: SNK vs. Capcom",
+    "title": "Street Fighter Anniversary Collection",
     "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "company": "Capcom",
+    "genre": "Fighting",
+    "id": "street-fighter-anniversary-collection"
   },
   {
-    "id": "king-of-fighters-94-re-bout",
-    "title": "King of Fighters '94 Re-Bout",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "title": "Street Fighter Alpha Anthology",
+    "year": 2006,
+    "company": "Capcom",
+    "genre": "Fighting",
+    "id": "street-fighter-alpha-anthology"
   },
   {
-    "id": "king-of-fighters-orochi-collection",
-    "title": "King of Fighters Orochi Collection",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "king-of-fighters-xi",
     "title": "King of Fighters XI",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "year": 2005,
+    "company": "SNK Playmore",
+    "genre": "Fighting",
+    "id": "king-of-fighters-xi"
   },
   {
-    "id": "king-of-fighters-nests-collection",
-    "title": "King of Fighters NESTS Collection",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "title": "The King of Fighters 2002 Unlimited Match",
+    "year": 2009,
+    "company": "SNK Playmore",
+    "genre": "Fighting",
+    "id": "the-king-of-fighters-2002-unlimited-match"
   },
   {
-    "id": "guilty-gear-x2",
     "title": "Guilty Gear X2",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "year": 2002,
+    "company": "Sammy Studios",
+    "genre": "Fighting",
+    "id": "guilty-gear-x2"
   },
   {
-    "id": "guilty-gear-isuka",
-    "title": "Guilty Gear Isuka",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "title": "Guilty Gear XX Accent Core Plus",
+    "year": 2008,
+    "company": "Aksys Games",
+    "genre": "Fighting",
+    "id": "guilty-gear-xx-accent-core-plus"
   },
   {
-    "id": "blazblue-calamity-trigger",
-    "title": "BlazBlue: Calamity Trigger",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "title": "Samurai Shodown Anthology",
+    "year": 2008,
+    "company": "SNK Playmore",
+    "genre": "Fighting",
+    "id": "samurai-shodown-anthology"
   },
   {
-    "id": "virtua-fighter-4",
-    "title": "Virtua Fighter 4",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "title": "NeoGeo Battle Coliseum",
+    "year": 2005,
+    "company": "SNK Playmore",
+    "genre": "Fighting",
+    "id": "neogeo-battle-coliseum"
   },
   {
-    "id": "virtua-fighter-4-evolution",
-    "title": "Virtua Fighter 4: Evolution",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "title": "Dragon Ball Z: Budokai",
+    "year": 2002,
+    "company": "Atari",
+    "genre": "Fighting",
+    "id": "dragon-ball-z-budokai"
   },
   {
-    "id": "dead-or-alive-2-hardcore",
-    "title": "Dead or Alive 2: Hardcore",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "title": "Dragon Ball Z: Budokai 2",
+    "year": 2003,
+    "company": "Atari",
+    "genre": "Fighting",
+    "id": "dragon-ball-z-budokai-2"
   },
   {
-    "id": "rumble-roses",
-    "title": "Rumble Roses",
+    "title": "Dragon Ball Z: Budokai 3",
     "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "company": "Atari",
+    "genre": "Fighting",
+    "id": "dragon-ball-z-budokai-3"
   },
   {
-    "id": "wwe-smackdown-here-comes-the-pain",
-    "title": "WWE SmackDown! Here Comes the Pain",
-    "year": 2004,
-    "company": "THQ",
-    "genre": "Sports/Wrestling"
+    "title": "Dragon Ball Z: Budokai Tenkaichi",
+    "year": 2005,
+    "company": "Atari",
+    "genre": "Fighting",
+    "id": "dragon-ball-z-budokai-tenkaichi"
   },
   {
-    "id": "wwe-smackdown-vs-raw",
-    "title": "WWE SmackDown! vs. Raw",
-    "year": 2004,
-    "company": "THQ",
-    "genre": "Sports/Wrestling"
+    "title": "Dragon Ball Z: Budokai Tenkaichi 2",
+    "year": 2006,
+    "company": "Atari",
+    "genre": "Fighting",
+    "id": "dragon-ball-z-budokai-tenkaichi-2"
   },
   {
-    "id": "wwe-smackdown-vs-raw-2006",
-    "title": "WWE SmackDown! vs. Raw 2006",
-    "year": 2004,
-    "company": "THQ",
-    "genre": "Sports/Wrestling"
+    "title": "Dragon Ball Z: Budokai Tenkaichi 3",
+    "year": 2007,
+    "company": "Atari",
+    "genre": "Fighting",
+    "id": "dragon-ball-z-budokai-tenkaichi-3"
   },
   {
-    "id": "wwe-smackdown-vs-raw-2007",
-    "title": "WWE SmackDown! vs. Raw 2007",
-    "year": 2004,
-    "company": "THQ",
-    "genre": "Sports/Wrestling"
+    "title": "Naruto: Ultimate Ninja",
+    "year": 2003,
+    "company": "Bandai Namco",
+    "genre": "Fighting",
+    "id": "naruto-ultimate-ninja"
   },
   {
-    "id": "wwe-smackdown-vs-raw-2008",
-    "title": "WWE SmackDown! vs. Raw 2008",
+    "title": "Naruto: Ultimate Ninja 2",
     "year": 2004,
-    "company": "THQ",
-    "genre": "Sports/Wrestling"
+    "company": "Bandai Namco",
+    "genre": "Fighting",
+    "id": "naruto-ultimate-ninja-2"
   },
   {
-    "id": "wwe-smackdown-vs-raw-2009",
-    "title": "WWE SmackDown! vs. Raw 2009",
-    "year": 2004,
-    "company": "THQ",
-    "genre": "Sports/Wrestling"
+    "title": "Naruto: Ultimate Ninja 3",
+    "year": 2005,
+    "company": "Bandai Namco",
+    "genre": "Fighting",
+    "id": "naruto-ultimate-ninja-3"
   },
   {
-    "id": "wwe-smackdown-vs-raw-2010",
-    "title": "WWE SmackDown! vs. Raw 2010",
-    "year": 2004,
-    "company": "THQ",
-    "genre": "Sports/Wrestling"
+    "title": "Def Jam: Vendetta",
+    "year": 2003,
+    "company": "Electronic Arts",
+    "genre": "Fighting/Wrestling",
+    "id": "def-jam-vendetta"
   },
   {
-    "id": "wwe-smackdown-vs-raw-2011",
-    "title": "WWE SmackDown! vs. Raw 2011",
-    "year": 2004,
-    "company": "THQ",
-    "genre": "Sports/Wrestling"
-  },
-  {
-    "id": "def-jam-vendetta",
-    "title": "Def Jam Vendetta",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "def-jam-fight-for-ny",
     "title": "Def Jam: Fight for NY",
     "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "company": "Electronic Arts",
+    "genre": "Fighting/Wrestling",
+    "id": "def-jam-fight-for-ny"
   },
   {
-    "id": "fight-night-round-2",
-    "title": "Fight Night Round 2",
+    "title": "Urban Reign",
+    "year": 2005,
+    "company": "Namco",
+    "genre": "Beat 'em up",
+    "id": "urban-reign"
+  },
+  {
+    "title": "Godzilla: Save the Earth",
     "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "company": "Atari",
+    "genre": "Fighting",
+    "id": "godzilla-save-the-earth"
   },
   {
-    "id": "fight-night-round-3",
-    "title": "Fight Night Round 3",
+    "title": "Black",
+    "year": 2006,
+    "company": "Electronic Arts",
+    "genre": "Shooter",
+    "id": "black"
+  },
+  {
+    "title": "TimeSplitters",
+    "year": 2000,
+    "company": "Eidos Interactive",
+    "genre": "Shooter",
+    "id": "timesplitters"
+  },
+  {
+    "title": "TimeSplitters 2",
+    "year": 2002,
+    "company": "Eidos Interactive",
+    "genre": "Shooter",
+    "id": "timesplitters-2"
+  },
+  {
+    "title": "TimeSplitters: Future Perfect",
+    "year": 2005,
+    "company": "Electronic Arts",
+    "genre": "Shooter",
+    "id": "timesplitters-future-perfect"
+  },
+  {
+    "title": "Medal of Honor: Frontline",
+    "year": 2002,
+    "company": "Electronic Arts",
+    "genre": "Shooter",
+    "id": "medal-of-honor-frontline"
+  },
+  {
+    "title": "Medal of Honor: Rising Sun",
+    "year": 2003,
+    "company": "Electronic Arts",
+    "genre": "Shooter",
+    "id": "medal-of-honor-rising-sun"
+  },
+  {
+    "title": "Medal of Honor: European Assault",
+    "year": 2005,
+    "company": "Electronic Arts",
+    "genre": "Shooter",
+    "id": "medal-of-honor-european-assault"
+  },
+  {
+    "title": "Call of Duty: Finest Hour",
     "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "company": "Activision",
+    "genre": "Shooter",
+    "id": "call-of-duty-finest-hour"
   },
   {
-    "id": "rocky-legends",
-    "title": "Rocky Legends",
+    "title": "Call of Duty 2: Big Red One",
+    "year": 2005,
+    "company": "Activision",
+    "genre": "Shooter",
+    "id": "call-of-duty-2-big-red-one"
+  },
+  {
+    "title": "Call of Duty 3",
+    "year": 2006,
+    "company": "Activision",
+    "genre": "Shooter",
+    "id": "call-of-duty-3"
+  },
+  {
+    "title": "Brothers in Arms: Road to Hill 30",
+    "year": 2005,
+    "company": "Ubisoft",
+    "genre": "Shooter",
+    "id": "brothers-in-arms-road-to-hill-30"
+  },
+  {
+    "title": "Brothers in Arms: Earned in Blood",
+    "year": 2005,
+    "company": "Ubisoft",
+    "genre": "Shooter",
+    "id": "brothers-in-arms-earned-in-blood"
+  },
+  {
+    "title": "Killzone",
     "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "company": "Sony Computer Ent.",
+    "genre": "Shooter",
+    "id": "killzone"
   },
   {
-    "id": "don-king-presents-prizefighter",
-    "title": "Don King Presents: Prizefighter",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "title": "Red Faction",
+    "year": 2001,
+    "company": "THQ",
+    "genre": "Shooter",
+    "id": "red-faction"
   },
   {
-    "id": "madden-nfl-2001",
-    "title": "Madden NFL 2001",
+    "title": "Red Faction II",
+    "year": 2002,
+    "company": "THQ",
+    "genre": "Shooter",
+    "id": "red-faction-ii"
+  },
+  {
+    "title": "Half-Life",
+    "year": 2001,
+    "company": "Sierra Studios",
+    "genre": "Shooter",
+    "id": "half-life"
+  },
+  {
+    "title": "Deus Ex: The Conspiracy",
+    "year": 2002,
+    "company": "Eidos Interactive",
+    "genre": "Action RPG",
+    "id": "deus-ex-the-conspiracy"
+  },
+  {
+    "title": "Project: Snowblind",
+    "year": 2005,
+    "company": "Eidos Interactive",
+    "genre": "Shooter",
+    "id": "project-snowblind"
+  },
+  {
+    "title": "Return to Castle Wolfenstein: Operation Resurrection",
+    "year": 2003,
+    "company": "Activision",
+    "genre": "Shooter",
+    "id": "return-to-castle-wolfenstein-operation-resurrection"
+  },
+  {
+    "title": "Area 51",
+    "year": 2005,
+    "company": "Midway Games",
+    "genre": "Shooter",
+    "id": "area-51"
+  },
+  {
+    "title": "Cold Winter",
+    "year": 2005,
+    "company": "Vivendi Universal Games",
+    "genre": "Shooter",
+    "id": "cold-winter"
+  },
+  {
+    "title": "007: Nightfire",
+    "year": 2002,
+    "company": "Electronic Arts",
+    "genre": "Shooter",
+    "id": "007-nightfire"
+  },
+  {
+    "title": "007: Everything or Nothing",
     "year": 2004,
     "company": "Electronic Arts",
-    "genre": "Sports"
+    "genre": "Action-adventure",
+    "id": "007-everything-or-nothing"
   },
   {
-    "id": "madden-nfl-2002",
-    "title": "Madden NFL 2002",
-    "year": 2004,
+    "title": "007: From Russia with Love",
+    "year": 2005,
     "company": "Electronic Arts",
-    "genre": "Sports"
+    "genre": "Action-adventure",
+    "id": "007-from-russia-with-love"
   },
   {
-    "id": "madden-nfl-2003",
-    "title": "Madden NFL 2003",
-    "year": 2004,
+    "title": "007: Agent Under Fire",
+    "year": 2001,
     "company": "Electronic Arts",
-    "genre": "Sports"
+    "genre": "Shooter",
+    "id": "007-agent-under-fire"
   },
   {
-    "id": "madden-nfl-2004",
+    "title": "Tom Clancy's Splinter Cell",
+    "year": 2002,
+    "company": "Ubisoft",
+    "genre": "Stealth",
+    "id": "tom-clancys-splinter-cell"
+  },
+  {
+    "title": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+    "year": 2004,
+    "company": "Ubisoft",
+    "genre": "Stealth",
+    "id": "tom-clancys-splinter-cell-pandora-tomorrow"
+  },
+  {
+    "title": "Tom Clancy's Splinter Cell: Chaos Theory",
+    "year": 2005,
+    "company": "Ubisoft",
+    "genre": "Stealth",
+    "id": "tom-clancys-splinter-cell-chaos-theory"
+  },
+  {
+    "title": "Tom Clancy's Splinter Cell: Double Agent",
+    "year": 2006,
+    "company": "Ubisoft",
+    "genre": "Stealth",
+    "id": "tom-clancys-splinter-cell-double-agent"
+  },
+  {
+    "title": "Tom Clancy's Ghost Recon",
+    "year": 2001,
+    "company": "Ubisoft",
+    "genre": "Tactical Shooter",
+    "id": "tom-clancys-ghost-recon"
+  },
+  {
+    "title": "Tom Clancy's Ghost Recon 2",
+    "year": 2004,
+    "company": "Ubisoft",
+    "genre": "Tactical Shooter",
+    "id": "tom-clancys-ghost-recon-2"
+  },
+  {
+    "title": "Tom Clancy's Rainbow Six 3",
+    "year": 2003,
+    "company": "Ubisoft",
+    "genre": "Tactical Shooter",
+    "id": "tom-clancys-rainbow-six-3"
+  },
+  {
+    "title": "Tony Hawk's Pro Skater 3",
+    "year": 2001,
+    "company": "Activision",
+    "genre": "Sports",
+    "id": "tony-hawks-pro-skater-3"
+  },
+  {
+    "title": "Tony Hawk's Pro Skater 4",
+    "year": 2002,
+    "company": "Activision",
+    "genre": "Sports",
+    "id": "tony-hawks-pro-skater-4"
+  },
+  {
+    "title": "Tony Hawk's Underground",
+    "year": 2003,
+    "company": "Activision",
+    "genre": "Sports",
+    "id": "tony-hawks-underground"
+  },
+  {
+    "title": "Tony Hawk's Underground 2",
+    "year": 2004,
+    "company": "Activision",
+    "genre": "Sports",
+    "id": "tony-hawks-underground-2"
+  },
+  {
+    "title": "Tony Hawk's American Wasteland",
+    "year": 2005,
+    "company": "Activision",
+    "genre": "Sports",
+    "id": "tony-hawks-american-wasteland"
+  },
+  {
+    "title": "Dave Mirra Freestyle BMX 2",
+    "year": 2001,
+    "company": "Acclaim Entertainment",
+    "genre": "Sports",
+    "id": "dave-mirra-freestyle-bmx-2"
+  },
+  {
+    "title": "Aggressive Inline",
+    "year": 2002,
+    "company": "Acclaim Entertainment",
+    "genre": "Sports",
+    "id": "aggressive-inline"
+  },
+  {
+    "title": "ESPN NFL 2K5",
+    "year": 2004,
+    "company": "Sega",
+    "genre": "Sports",
+    "id": "espn-nfl-2k5"
+  },
+  {
     "title": "Madden NFL 2004",
-    "year": 2004,
+    "year": 2003,
     "company": "Electronic Arts",
-    "genre": "Sports"
+    "genre": "Sports",
+    "id": "madden-nfl-2004"
   },
   {
-    "id": "madden-nfl-2005",
     "title": "Madden NFL 2005",
     "year": 2004,
     "company": "Electronic Arts",
-    "genre": "Sports"
+    "genre": "Sports",
+    "id": "madden-nfl-2005"
   },
   {
-    "id": "madden-nfl-06",
-    "title": "Madden NFL 06",
-    "year": 2004,
+    "title": "NBA Street",
+    "year": 2001,
     "company": "Electronic Arts",
-    "genre": "Sports"
+    "genre": "Sports",
+    "id": "nba-street"
   },
   {
-    "id": "madden-nfl-07",
-    "title": "Madden NFL 07",
-    "year": 2004,
+    "title": "NBA Street Vol. 2",
+    "year": 2003,
     "company": "Electronic Arts",
-    "genre": "Sports"
+    "genre": "Sports",
+    "id": "nba-street-vol-2"
   },
   {
-    "id": "madden-nfl-08",
-    "title": "Madden NFL 08",
-    "year": 2004,
+    "title": "NBA Street V3",
+    "year": 2005,
     "company": "Electronic Arts",
-    "genre": "Sports"
+    "genre": "Sports",
+    "id": "nba-street-v3"
   },
   {
-    "id": "madden-nfl-09",
-    "title": "Madden NFL 09",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
+    "title": "NBA 2K3",
+    "year": 2002,
+    "company": "Sega",
+    "genre": "Sports",
+    "id": "nba-2k3"
   },
   {
-    "id": "madden-nfl-10",
-    "title": "Madden NFL 10",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "madden-nfl-11",
-    "title": "Madden NFL 11",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "madden-nfl-12",
-    "title": "Madden NFL 12",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "fifa-soccer-2001",
-    "title": "FIFA Soccer 2001",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "fifa-soccer-2002",
-    "title": "FIFA Soccer 2002",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "fifa-soccer-2003",
-    "title": "FIFA Soccer 2003",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "fifa-soccer-2004",
-    "title": "FIFA Soccer 2004",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "fifa-soccer-2005",
-    "title": "FIFA Soccer 2005",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "fifa-06",
-    "title": "FIFA 06",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "fifa-07",
-    "title": "FIFA 07",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "fifa-08",
-    "title": "FIFA 08",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "fifa-09",
-    "title": "FIFA 09",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "fifa-10",
-    "title": "FIFA 10",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "fifa-11",
-    "title": "FIFA 11",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "fifa-12",
-    "title": "FIFA 12",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "fifa-13",
-    "title": "FIFA 13",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "fifa-14",
-    "title": "FIFA 14",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "pro-evolution-soccer",
-    "title": "Pro Evolution Soccer",
-    "year": 2004,
-    "company": "Konami",
-    "genre": "Sports"
-  },
-  {
-    "id": "pro-evolution-soccer-2",
-    "title": "Pro Evolution Soccer 2",
-    "year": 2004,
-    "company": "Konami",
-    "genre": "Sports"
-  },
-  {
-    "id": "pro-evolution-soccer-3",
-    "title": "Pro Evolution Soccer 3",
-    "year": 2004,
-    "company": "Konami",
-    "genre": "Sports"
-  },
-  {
-    "id": "pro-evolution-soccer-4",
-    "title": "Pro Evolution Soccer 4",
-    "year": 2004,
-    "company": "Konami",
-    "genre": "Sports"
-  },
-  {
-    "id": "pro-evolution-soccer-5",
-    "title": "Pro Evolution Soccer 5",
-    "year": 2004,
-    "company": "Konami",
-    "genre": "Sports"
-  },
-  {
-    "id": "pro-evolution-soccer-6",
-    "title": "Pro Evolution Soccer 6",
-    "year": 2004,
-    "company": "Konami",
-    "genre": "Sports"
-  },
-  {
-    "id": "pes-2008",
-    "title": "PES 2008",
-    "year": 2004,
-    "company": "Konami",
-    "genre": "Sports"
-  },
-  {
-    "id": "pes-2009",
-    "title": "PES 2009",
-    "year": 2004,
-    "company": "Konami",
-    "genre": "Sports"
-  },
-  {
-    "id": "pes-2010",
-    "title": "PES 2010",
-    "year": 2004,
-    "company": "Konami",
-    "genre": "Sports"
-  },
-  {
-    "id": "pes-2011",
-    "title": "PES 2011",
-    "year": 2004,
-    "company": "Konami",
-    "genre": "Sports"
-  },
-  {
-    "id": "pes-2012",
-    "title": "PES 2012",
-    "year": 2004,
-    "company": "Konami",
-    "genre": "Sports"
-  },
-  {
-    "id": "pes-2013",
-    "title": "PES 2013",
-    "year": 2004,
-    "company": "Konami",
-    "genre": "Sports"
-  },
-  {
-    "id": "pes-2014",
-    "title": "PES 2014",
-    "year": 2004,
-    "company": "Konami",
-    "genre": "Sports"
-  },
-  {
-    "id": "nba-live-2001",
-    "title": "NBA Live 2001",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "nba-live-2002",
-    "title": "NBA Live 2002",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "nba-live-2003",
-    "title": "NBA Live 2003",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "nba-live-2004",
-    "title": "NBA Live 2004",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "nba-live-2005",
     "title": "NBA Live 2005",
     "year": 2004,
     "company": "Electronic Arts",
-    "genre": "Sports"
+    "genre": "Sports",
+    "id": "nba-live-2005"
   },
   {
-    "id": "nba-live-06",
-    "title": "NBA Live 06",
+    "title": "Pro Evolution Soccer 3",
+    "year": 2003,
+    "company": "Konami",
+    "genre": "Sports",
+    "id": "pro-evolution-soccer-3"
+  },
+  {
+    "title": "Pro Evolution Soccer 4",
+    "year": 2004,
+    "company": "Konami",
+    "genre": "Sports",
+    "id": "pro-evolution-soccer-4"
+  },
+  {
+    "title": "Pro Evolution Soccer 5",
+    "year": 2005,
+    "company": "Konami",
+    "genre": "Sports",
+    "id": "pro-evolution-soccer-5"
+  },
+  {
+    "title": "Pro Evolution Soccer 6",
+    "year": 2006,
+    "company": "Konami",
+    "genre": "Sports",
+    "id": "pro-evolution-soccer-6"
+  },
+  {
+    "title": "Virtua Tennis 2",
+    "year": 2002,
+    "company": "Sega",
+    "genre": "Sports",
+    "id": "virtua-tennis-2"
+  },
+  {
+    "title": "Sega Soccer Slam",
+    "year": 2002,
+    "company": "Sega",
+    "genre": "Sports",
+    "id": "sega-soccer-slam"
+  },
+  {
+    "title": "Fight Night 2004",
     "year": 2004,
     "company": "Electronic Arts",
-    "genre": "Sports"
+    "genre": "Sports",
+    "id": "fight-night-2004"
   },
   {
-    "id": "nba-live-07",
-    "title": "NBA Live 07",
-    "year": 2004,
+    "title": "Fight Night Round 2",
+    "year": 2005,
     "company": "Electronic Arts",
-    "genre": "Sports"
+    "genre": "Sports",
+    "id": "fight-night-round-2"
   },
   {
-    "id": "nba-live-08",
-    "title": "NBA Live 08",
-    "year": 2004,
+    "title": "Fight Night Round 3",
+    "year": 2006,
     "company": "Electronic Arts",
-    "genre": "Sports"
+    "genre": "Sports",
+    "id": "fight-night-round-3"
   },
   {
-    "id": "nba-live-09",
-    "title": "NBA Live 09",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
+    "title": "Victorious Boxers: Ippo's Road to Glory",
+    "year": 2000,
+    "company": "Empire Interactive",
+    "genre": "Sports",
+    "id": "victorious-boxers-ippos-road-to-glory"
   },
   {
-    "id": "nba-2k1",
-    "title": "NBA 2K1",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
+    "title": "WWE SmackDown! Shut Your Mouth",
+    "year": 2002,
+    "company": "THQ",
+    "genre": "Sports/Wrestling",
+    "id": "wwe-smackdown-shut-your-mouth"
   },
   {
-    "id": "nba-2k2",
-    "title": "NBA 2K2",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
+    "title": "WWE SmackDown! Here Comes the Pain",
+    "year": 2003,
+    "company": "THQ",
+    "genre": "Sports/Wrestling",
+    "id": "wwe-smackdown-here-comes-the-pain"
   },
   {
-    "id": "nba-2k3",
-    "title": "NBA 2K3",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
+    "title": "WWE SmackDown! vs. Raw 2006",
+    "year": 2005,
+    "company": "THQ",
+    "genre": "Sports/Wrestling",
+    "id": "wwe-smackdown-vs-raw-2006"
   },
   {
-    "id": "espn-nba-2k4",
-    "title": "ESPN NBA 2K4",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
+    "title": "WWE SmackDown! vs. Raw 2007",
+    "year": 2006,
+    "company": "THQ",
+    "genre": "Sports/Wrestling",
+    "id": "wwe-smackdown-vs-raw-2007"
   },
   {
-    "id": "espn-nba-2k5",
-    "title": "ESPN NBA 2K5",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "nba-2k6",
-    "title": "NBA 2K6",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "nba-2k7",
-    "title": "NBA 2K7",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "nba-2k8",
-    "title": "NBA 2K8",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "nba-2k9",
-    "title": "NBA 2K9",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "nba-2k10",
-    "title": "NBA 2K10",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "nba-2k11",
-    "title": "NBA 2K11",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "nba-2k12",
-    "title": "NBA 2K12",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "nhl-2001",
-    "title": "NHL 2001",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "nhl-2002",
-    "title": "NHL 2002",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "nhl-2003",
-    "title": "NHL 2003",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "nhl-2004",
-    "title": "NHL 2004",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "nhl-2005",
-    "title": "NHL 2005",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "nhl-06",
-    "title": "NHL 06",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "nhl-07",
-    "title": "NHL 07",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "nhl-08",
-    "title": "NHL 08",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "nhl-09",
-    "title": "NHL 09",
-    "year": 2004,
-    "company": "Electronic Arts",
-    "genre": "Sports"
-  },
-  {
-    "id": "tiger-woods-pga-tour-2001",
-    "title": "Tiger Woods PGA Tour 2001",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "tiger-woods-pga-tour-2002",
-    "title": "Tiger Woods PGA Tour 2002",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "tiger-woods-pga-tour-2003",
-    "title": "Tiger Woods PGA Tour 2003",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "tiger-woods-pga-tour-2004",
-    "title": "Tiger Woods PGA Tour 2004",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "tiger-woods-pga-tour-2005",
-    "title": "Tiger Woods PGA Tour 2005",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "tiger-woods-pga-tour-06",
-    "title": "Tiger Woods PGA Tour 06",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "tiger-woods-pga-tour-07",
-    "title": "Tiger Woods PGA Tour 07",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "tiger-woods-pga-tour-08",
-    "title": "Tiger Woods PGA Tour 08",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "mlb-2001",
-    "title": "MLB 2001",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "mlb-2002",
-    "title": "MLB 2002",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "mlb-2003",
-    "title": "MLB 2003",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
-  },
-  {
-    "id": "mlb-2004",
-    "title": "MLB 2004",
-    "year": 2004,
-    "company": "Unknown",
-    "genre": "Action"
+    "title": "Fire Pro Wrestling Returns",
+    "year": 2005,
+    "company": "Agetec",
+    "genre": "Sports/Wrestling",
+    "id": "fire-pro-wrestling-returns"
   }
 ]

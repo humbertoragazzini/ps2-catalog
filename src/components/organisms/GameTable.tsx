@@ -1,4 +1,4 @@
-import { Game, GameStatus } from "../../types/game";
+import type { Game, GameStatus } from "../../types/game";
 import { StatusSelect } from "../molecules/StatusSelect";
 import { StatusPill } from "../atoms/StatusPill";
 import { motion, AnimatePresence } from "framer-motion";

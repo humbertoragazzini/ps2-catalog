@@ -5,7 +5,7 @@ import { Header } from "../components/organisms/Header";
 import { FilterBar } from "../components/molecules/FilterBar";
 import { GameTable } from "../components/organisms/GameTable";
 import { ImportExportPanel } from "../components/organisms/ImportExportPanel";
-import { Game } from "../types/game";
+import type { Game } from "../types/game";
 
 export const HomePage = () => {
   const { games, statuses } = useGameStore();

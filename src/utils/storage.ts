@@ -1,4 +1,4 @@
-import { GameTrackingState } from "../types/game";
+import type { GameTrackingState } from "../types/game";
 
 const STORAGE_KEY = "ps2-game-tracker-status-v1";
 

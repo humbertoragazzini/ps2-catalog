@@ -1,4 +1,4 @@
-import { GameStatus } from "../../types/game";
+import type { GameStatus } from "../../types/game";
 
 interface StatusPillProps {
   status: GameStatus;

@@ -1,5 +1,5 @@
 import { create } from "zustand";
-import { Game, GameStatus, GameTrackingState } from "../types/game";
+import type { Game, GameStatus, GameTrackingState } from "../types/game";
 import gamesData from "../data/ps2-games.json";
 import { loadStatuses, saveStatuses, clearStatuses } from "../utils/storage";
 import { validateImportData, prepareExportData } from "../utils/exportImport";

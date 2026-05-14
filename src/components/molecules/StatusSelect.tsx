@@ -1,4 +1,4 @@
-import { GameStatus } from "../../types/game";
+import type { GameStatus } from "../../types/game";
 import { FiCheck, FiCircle, FiMinusCircle } from "react-icons/fi";
 import { motion } from "framer-motion";
 

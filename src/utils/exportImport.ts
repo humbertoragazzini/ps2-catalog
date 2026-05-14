@@ -1,4 +1,4 @@
-import { GameStatus, GameTrackingState, ExportData } from "../types/game";
+import type { GameStatus, GameTrackingState, ExportData } from "../types/game";
 
 const VALID_STATUSES: GameStatus[] = ["acquired", "missing", "not_interested"];
 

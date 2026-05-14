@@ -8,7 +8,7 @@ import { ImportExportPanel } from "../components/organisms/ImportExportPanel";
 import type { Game } from "../types/game";
 
 export const HomePage = () => {
-  const { games, statuses } = useGameStore();
+  const { games, statuses, totalGames } = useGameStore();
 
   // Filter & Sort State
   const [search, setSearch] = useState("");
@@ -71,7 +71,7 @@ export const HomePage = () => {
     return result;
   }, [games, statuses, search, statusFilter, genreFilter, sortBy]);
 
-  const handleReset = () => {
+  const handleResetFilters = () => {
     setSearch("");
     setStatusFilter("all");
     setGenreFilter("all");
@@ -84,10 +84,13 @@ export const HomePage = () => {
       
       <div className="space-y-8">
         <section className="space-y-4">
-          <div className="flex items-center justify-between">
-            <h2 className="text-xs font-black uppercase tracking-[0.3em] text-primary/60 pl-1">
+          <div className="flex items-center justify-between px-1">
+            <h2 className="text-xs font-black uppercase tracking-[0.3em] text-primary/60">
               Controls & Filtering
             </h2>
+            <p className="text-[10px] font-bold text-slate-500 uppercase tracking-widest">
+              Showing <span className="text-white">{filteredGames.length}</span> of <span className="text-white">{totalGames}</span> games
+            </p>
           </div>
           <FilterBar
             search={search}
@@ -99,14 +102,14 @@ export const HomePage = () => {
             sortBy={sortBy}
             setSortBy={setSortBy}
             genres={genres}
-            onReset={handleReset}
+            onReset={handleResetFilters}
           />
         </section>
 
         <section className="space-y-4">
-          <div className="flex items-center justify-between">
+          <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-4">
             <h2 className="text-xs font-black uppercase tracking-[0.3em] text-primary/60 pl-1">
-              Game Catalog ({filteredGames.length})
+              Game Catalog
             </h2>
             <ImportExportPanel />
           </div>

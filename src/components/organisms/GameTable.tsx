@@ -101,7 +101,7 @@ export const GameTable = ({ games }: GameTableProps) => {
 
       {games.length === 0 && (
         <div className="text-center py-20 glass-card">
-          <p className="text-slate-500 font-medium">No games match your filters.</p>
+          <p className="text-slate-500 font-medium">No games found. Try changing your filters.</p>
         </div>
       )}
     </div>
